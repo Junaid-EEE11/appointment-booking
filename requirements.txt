@@ -1,0 +1,2 @@
+# Optional production payment adapter
+stripe>=10.0.0
