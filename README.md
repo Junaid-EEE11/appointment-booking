@@ -98,4 +98,4 @@ If Stripe is not configured, the app falls back to a local confirmation page ins
 
 ## License
 
-This project does not currently include a license file. Add one if you intend to distribute or reuse it publicly.
+MIT.
